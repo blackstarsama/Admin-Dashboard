@@ -30,7 +30,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 </h3> Dark Mode </h3>
 
-![Capture d’écran (410)](https://user-images.githubusercontent.com/12783220/220763233-211582b4-dcac-49fa-b0a3-c9fd28599297.png)
+## ![Capture d’écran (410)](https://user-images.githubusercontent.com/12783220/220763233-211582b4-dcac-49fa-b0a3-c9fd28599297.png)
 
 ## Built With
 
