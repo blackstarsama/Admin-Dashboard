@@ -24,7 +24,7 @@
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [blackstarsama](https://github.com/blackstarsama/Admin-Dashboard). Thanks!
 
-## <h3> Light Mode </h3>
+## <h3> Light Mode </h3> ##
 
 ![Capture d’écran (409)](https://user-images.githubusercontent.com/12783220/220763040-e83fc6f9-1f75-487d-a064-e199f7ce3a29.png)
 
